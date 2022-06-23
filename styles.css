@@ -1,0 +1,110 @@
+body{
+    background-color: rgba(0,0,0,.8);
+    margin: 0px;
+}
+.container1{
+    width: 800px;
+    margin-top: 10vh;
+    margin-left: 10vh;
+}
+.container2{
+    width: 800px;
+    margin-top: 5vh;
+    margin-left: 10vh;
+}
+.container3{
+    width: 800px;
+    margin-top: 5vh;
+    margin-left: 10vh;
+    margin-bottom: 10vh;
+}
+table{
+    height: 30vh;
+    border-radius: 5px;
+    color: gray;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+}
+.table{
+    border-radius: 5px;
+    border: 1px solid gray; 
+}
+th{
+    height:7.5vh;
+    text-align: left;
+    width: 100vh;
+    border-collapse: collapse;
+    border-bottom: 1px solid grey;
+    padding-left: 15px;
+    color: white;
+    font-size: 14px;
+}
+td{
+    height:7.5vh;
+    padding-left: 15px;
+}
+.t1{
+    width: 220vh;
+}
+.t2{
+    width: 100vh;
+}
+.t3{ 
+    border-collapse: collapse;
+    border-bottom: 1px solid grey; 
+}
+.t4{
+    border-collapse: collapse;
+    border-bottom: 1px solid grey;
+}
+.dots{
+    border-collapse: collapse;
+    border-bottom: 1px solid grey;
+    padding-right: 15px;
+    text-align: right;
+}
+.dots2{
+    padding-right: 15px;
+    text-align: right
+}
+.dots4{
+
+    text-align: right;
+    
+}
+
+.search{   
+    width: 180px;
+    height: 6vh;
+    border-radius: 5px;
+    background-color: rgb(61, 61, 61);
+    color: rgb(99, 99, 99);
+    border: 0px;
+   
+    
+}
+.t7, .t8{
+    border-collapse: collapse;
+    border-bottom: 1px solid grey;
+    padding-left: 160px;
+
+}
+.t9{
+    padding-left: 160px;
+}
+    
+
+.down{
+    width: 12px;
+    padding-left: 12px;
+}
+.box{
+    padding-top: 10px;
+}
+.minus{
+    width: 13.5px;
+    height: 13.5px;
+    padding-left: 4.5px;
+}
+
+
